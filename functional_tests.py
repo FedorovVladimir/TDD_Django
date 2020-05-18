@@ -1,6 +1,6 @@
-from selenium import webdriwer
+from selenium import webdriver
 
-browser = webdriwer.Firefox()
+browser = webdriver.Firefox()
 browser.get('http://localhost:8000')
 
 assert 'Django' in browser.title
