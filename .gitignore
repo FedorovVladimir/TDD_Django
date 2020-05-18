@@ -1,4 +1,4 @@
 venv
-geckodriver
-geckodriver.log
+TDD_Django/geckodriver.log
 TDD_Django/db.sqlite3
+TDD_Django/TDD_Django/__pycache__
